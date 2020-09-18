@@ -1,0 +1,7 @@
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\bin\Debug\Tech Project 2bb.exe.config
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\bin\Debug\Tech Project 2bb.exe
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\bin\Debug\Tech Project 2bb.pdb
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\obj\Debug\Tech Project 2bb.csproj.CoreCompileInputs.cache
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\obj\Debug\Tech Project 2bb.exe
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\obj\Debug\Tech Project 2bb.pdb
+C:\Users\Suyog Thengale\source\repos\Tech Project 2bb\obj\Debug\Tech Project 2bb.csprojAssemblyReference.cache
